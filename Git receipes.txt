@@ -1,0 +1,3 @@
+git diff --color-words commitOld commitNew .\main.tex
+git diff --color-words b5b3bd71e46a1b0866b778d9e1f0d92a1b36896d 8324a70b75a738b9cea57eec1cdfcd20b0f5ff78 .\main.tex
+
